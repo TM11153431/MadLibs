@@ -17,7 +17,7 @@
  */
 
 // !YOU MAY WANT TO CHANGE THE PACKAGE BELOW SO THAT IT MATCHES YOUR PROJECT'S PACKAGE!
-package com.example.stepp.madlibs;
+package com.example.timme.timmeijer_pset2;
 
 import java.io.*;
 import java.util.*;
